@@ -1,9 +1,5 @@
 # Ultimate Linux Guide
 
-- Fundamentals of Linux
-- Linux vs Windows
-- Core components of Linux
-- Setup Linux on Windows & MacOS
 - Linux folder structure
 - Linux user management
 - Linux file management
