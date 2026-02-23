@@ -1,13 +1,14 @@
 # Ultimate Linux Guide
 
-- Linux folder structure
-- Linux user management
-- Linux file management
-- VI Editor shortcuts (commonly used)
+- Disk and Storage management in Linux
+- File Mangement
 - File permissions
-- Process management
+- Folder Structure
+- Linux
 - Linux system monitoring
 - Basic Networking in Linux
-- Disk and Storage management in Linux
+- Process management
+- User Mangement
+- VI Editor shortcuts (commonly used)
 
  
